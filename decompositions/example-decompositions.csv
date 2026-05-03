@@ -1,0 +1,17 @@
+Character,Unicode,Type,StrokeCount,Radical,CurrentIDS,Structure,Semantic,Phonetic,Notes
+海,U+6D77,han,10,水,⿰氵每,⿰,氵,每,phono-semantic: water + MOI
+江,U+6C5F,han,6,水,⿰氵工,⿰,氵,工,phono-semantic: water + CONG
+河,U+6CB3,han,8,水,⿰氵可,⿰,氵,可,phono-semantic: water + KHA
+想,U+60F3,han,13,心,⿱相心,⿱,心,相,phono-semantic: heart + TUONG
+媽,U+5ABD,han,13,女,⿰女馬,⿰,女,馬,phono-semantic: woman + MA
+鯉,U+9BC9,han,18,魚,⿰魚里,⿰,魚,里,phono-semantic: fish + LI
+楓,U+6953,han,13,木,⿰木風,⿰,木,風,phono-semantic: tree + PHONG
+明,U+660E,han,8,日,⿰日月,⿰,日+月,,compound ideograph: sun + moon = bright; no phonetic
+林,U+6797,han,8,木,⿰木木,⿰,木+木,,compound ideograph: two trees = forest
+國,U+570B,han,11,囗,⿴囗或,⿴,囗,或,enclosure structure
+問,U+554F,han,11,口,⿵門口,⿵,口,門,phono-semantic: mouth (asks) + MON
+街,U+8857,han,12,行,⿵行圭,⿵,行,圭,phono-semantic: walk + KHUE
+𠊛,U+2029B,nom,10,人,⿰亻㝵,⿰,亻,㝵,Nôm: NGUOI (person) — uses 㝵 NGAI as phonetic
+𣈜,U+2321C,nom,12,日,⿱日㝵,⿱,日,㝵,Nôm: NGAY (day) — uses 㝵 as phonetic; semantic 日 sun
+𡗶,U+215F6,nom,7,大,⿱天上,⿱,天+上,,Nôm: TROI (sky) — semantic compound: sky + above
+𠀧,U+20027,nom,7,一,⿰巴三,⿰,三,巴,"Nôm: BA (three) — uses 巴 BA as phonetic, 三 SAM as semantic hint"
