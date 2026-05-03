@@ -1,6 +1,6 @@
 # nomnaviet-contrib
 
-Community contributions to [Nôm Na Việt (喃哪越)](https://nomnaviet.com) — a platform for Vietnamese Hán Nôm studies.
+Community contributions to [Nôm Na Việt (喃哪越)](https://nomnaviet.com/vi) — a platform for Vietnamese Hán Nôm studies.
 
 This repo is the **canonical source** for translations and the **staging area** for character data contributions. Maintainers periodically sync changes back into the main app.
 
