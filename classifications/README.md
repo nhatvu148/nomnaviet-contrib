@@ -1,6 +1,6 @@
 # Classifications — A1-G2 character formation
 
-Each Hán Nôm character can be classified by **how it was formed** — borrowed from Hán, compounded from semantic + phonetic parts, etc. This system follows **Nguyễn Quốc Hùng's *Tự Điển Chữ Nôm Dẫn Giải*** (NXB Giáo Dục, 2014). The Nôm Na Việt app currently has classifications for **~7,700 characters**; **~18,000 are blank** awaiting community contributions.
+Each Hán Nôm character can be classified by **how it was formed** — borrowed from Hán, compounded from semantic + phonetic parts, etc. This system follows **Nguyễn Quang Hồng's *Tự Điển Chữ Nôm Dẫn Giải*** (NXB Khoa học Xã hội, 2014). The Nôm Na Việt app currently has classifications for **~7,700 characters**; **~18,000 are blank** awaiting community contributions.
 
 ## The codes
 
@@ -67,7 +67,7 @@ A maintainer runs `task converter:classifications:apply` (which reads this CSV) 
 
 ## Source
 
-Code system from: **Nguyễn Quốc Hùng** — *Tự Điển Chữ Nôm Dẫn Giải*, NXB Giáo Dục, 2014.
+Code system from: **Nguyễn Quang Hồng** — *Tự Điển Chữ Nôm Dẫn Giải*, NXB Khoa học Xã hội, 2014.
 
-The visual decision tree is rendered on every character page that has a code populated — open a classified character such as [`海`](https://nomnaviet.com/vi/character/海) (Class: **C1**) or [`字`](https://nomnaviet.com/vi/character/字) (Class: **A2**) and tap the **`Loại: <code>`** badge shown beneath the character header to expand the explanatory popup with the full A1–G2 decision tree and Nguyễn Quốc Hùng's reasoning. Characters without a badge have no code yet — those are the contribution targets in `character-classifications.csv`.
+The visual decision tree is rendered on every character page that has a code populated — open a classified character such as [`海`](https://nomnaviet.com/vi/character/海) (Class: **C1**) or [`字`](https://nomnaviet.com/vi/character/字) (Class: **A2**) and tap the **`Loại: <code>`** badge shown beneath the character header to expand the explanatory popup with the full A1–G2 decision tree and Nguyễn Quang Hồng's reasoning. Characters without a badge have no code yet — those are the contribution targets in `character-classifications.csv`.
 
