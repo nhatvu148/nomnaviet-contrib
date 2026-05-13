@@ -11,6 +11,7 @@ This repo is the **canonical source** for translations and the **staging area** 
 | [`i18n/`](./i18n/) | UI translation files (vi, en, fr, zh) | See [`i18n/README.md`](./i18n/README.md) |
 | [`decompositions/`](./decompositions/) | Character component data (IDS) | See [`decompositions/README.md`](./decompositions/README.md) |
 | [`classifications/`](./classifications/) | A1–G2 character formation classifications (Nguyễn Quốc Hùng, 2014) — ~18,000 of 25,827 characters still blank | See [`classifications/README.md`](./classifications/README.md) |
+| [`variants/`](./variants/) | Unicode-codepoint dị thể (異體字) pairs — same Vietnamese word, different codepoint. Strong gap for pure-Nôm chars (2.3% coverage) since Unihan is Sinophone-centric. | See [`variants/README.md`](./variants/README.md) |
 
 More content areas may be added later (e.g. historical dictionary digitization).
 
