@@ -693,6 +693,9 @@
     "imePersonalizationDesc": "根據您的使用頻率重新排序候選字",
     "imePersonalizationReset": "重設已學習的建議",
     "imePersonalizationResetDone": "已清除",
+    "imePersonalizationExport": "匯出 (JSON)",
+    "imePersonalizationExportDone": "已複製 ✓",
+    "imePersonalizationExportEmpty": "尚無資料",
     "signInDescription": "登入以同步您在各裝置上的學習進度",
     "signInWithGoogle": "使用 Google 登入",
     "signInWithApple": "使用 Apple 登入",
@@ -776,7 +779,8 @@
     "aiConsentTitle": "AI 優化",
     "aiConsentDescription": "為提高轉換準確度，您輸入的文字和字典資料（字元及其可能的讀音）將傳送至 OpenAI 的 API。不會分享任何個人資訊。詳情請參閱我們的隱私政策。",
     "aiConsentAllow": "允許",
-    "aiConsentDeny": "不允許"
+    "aiConsentDeny": "不允許",
+    "fontSize": "字體大小"
   },
   "tools": {
     "phonGian": {

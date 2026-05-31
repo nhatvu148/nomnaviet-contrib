@@ -694,6 +694,9 @@
     "imePersonalizationDesc": "Sắp xếp ứng viên theo tần suất sử dụng của bạn",
     "imePersonalizationReset": "Đặt lại gợi ý đã học",
     "imePersonalizationResetDone": "Đã xóa",
+    "imePersonalizationExport": "Xuất dữ liệu (JSON)",
+    "imePersonalizationExportDone": "Đã sao chép ✓",
+    "imePersonalizationExportEmpty": "Chưa có dữ liệu",
     "signInDescription": "Đăng nhập để đồng bộ tiến trình học trên các thiết bị",
     "signInWithGoogle": "Đăng nhập với Google",
     "signInWithApple": "Đăng nhập với Apple",
@@ -777,7 +780,8 @@
     "aiConsentTitle": "Tinh chỉnh bằng AI",
     "aiConsentDescription": "Để cải thiện độ chính xác, văn bản bạn nhập và dữ liệu từ điển (chữ và các âm đọc) sẽ được gửi đến API của OpenAI. Không có thông tin cá nhân nào được chia sẻ. Bạn có thể đọc thêm trong Chính sách Bảo mật.",
     "aiConsentAllow": "Cho phép",
-    "aiConsentDeny": "Không cho phép"
+    "aiConsentDeny": "Không cho phép",
+    "fontSize": "Cỡ chữ"
   },
   "tools": {
     "phonGian": {

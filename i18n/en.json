@@ -694,6 +694,9 @@
     "imePersonalizationDesc": "Reorder candidates based on your usage frequency",
     "imePersonalizationReset": "Reset learned suggestions",
     "imePersonalizationResetDone": "Cleared",
+    "imePersonalizationExport": "Export picks (JSON)",
+    "imePersonalizationExportDone": "Copied to clipboard ✓",
+    "imePersonalizationExportEmpty": "No picks recorded yet",
     "signInDescription": "Sign in to sync your progress across devices",
     "signInWithGoogle": "Sign in with Google",
     "signInWithApple": "Sign in with Apple",
@@ -780,7 +783,8 @@
     "aiConsentTitle": "AI-Powered Refinement",
     "aiConsentDescription": "To improve conversion accuracy, the text you enter and dictionary data (characters and their possible readings) are sent to OpenAI's API. No personal information is shared. You can read more in our Privacy Policy.",
     "aiConsentAllow": "Allow",
-    "aiConsentDeny": "Don't Allow"
+    "aiConsentDeny": "Don't Allow",
+    "fontSize": "Font size"
   },
   "tools": {
     "phonGian": {

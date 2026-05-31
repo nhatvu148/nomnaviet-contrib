@@ -693,6 +693,9 @@
     "imePersonalizationDesc": "Réordonner les candidats selon votre fréquence d'utilisation",
     "imePersonalizationReset": "Réinitialiser les suggestions apprises",
     "imePersonalizationResetDone": "Effacé",
+    "imePersonalizationExport": "Exporter (JSON)",
+    "imePersonalizationExportDone": "Copié ✓",
+    "imePersonalizationExportEmpty": "Aucune donnée",
     "signInDescription": "Connectez-vous pour synchroniser votre progression sur tous vos appareils",
     "signInWithGoogle": "Se connecter avec Google",
     "signInWithApple": "Se connecter avec Apple",
@@ -776,7 +779,8 @@
     "aiConsentTitle": "Raffinement par IA",
     "aiConsentDescription": "Pour améliorer la précision, le texte que vous saisissez et les données du dictionnaire (caractères et leurs lectures possibles) sont envoyés à l'API d'OpenAI. Aucune information personnelle n'est partagée. Consultez notre Politique de confidentialité pour en savoir plus.",
     "aiConsentAllow": "Autoriser",
-    "aiConsentDeny": "Ne pas autoriser"
+    "aiConsentDeny": "Ne pas autoriser",
+    "fontSize": "Taille de police"
   },
   "tools": {
     "phonGian": {
